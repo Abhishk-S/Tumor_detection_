@@ -1,7 +1,0 @@
-/datasets/*
-/uploads/*
-/Scripts/*
-/static/*
-/pred/*
-/Lib/*
-train.py
