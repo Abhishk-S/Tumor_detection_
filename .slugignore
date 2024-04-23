@@ -4,3 +4,4 @@
 /static/*
 /pred/*
 /Lib/*
+train.py
